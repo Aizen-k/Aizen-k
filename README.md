@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **web developing skill**
 
-- 💬 Ask me about **C, java, fitness, html**
+- 💬 Ask me about **C, java, fitness, html, css**
 
 - ⚡ Fun fact **I'm kind**
 
