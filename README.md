@@ -1,11 +1,11 @@
-<p align="center">
+ <p align="center">
   <a href="https://Aiken-k.io">
     <img src="https://media.tenor.com/X3yBG1qu-o8AAAAC/aizen-aizen-sosuke.gif" alt="MasterHead">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Aizen K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src=" https://images.alphacoders.com/102/1025825.jpg" width="400" alt="coding is life" />
+<img align="right" src="https://images.alphacoders.com/102/1025825.jpg" width="450" height="356" alt="coding is life" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizen-k&label=Profile%20views&color=0e75b6&style=flat" alt="aizen-k" /> </p>
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aizen-k&show_icons=true&locale=en" alt="aizen-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-k&" alt="aizen-k" /></p>
+ 
