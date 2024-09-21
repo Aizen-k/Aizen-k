@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Aizen K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://images.alphacoders.com/102/1025825.jpg" width="450" height="356" alt="coding is life" />
+<img align="right" src="https://images.alphacoders.com/102/1025825.jpg" width="270" height="230" alt="coding is life" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizen-k&label=Profile%20views&color=0e75b6&style=flat" alt="aizen-k" /> </p>
 
