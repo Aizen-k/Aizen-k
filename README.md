@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I'm kind**
 
+- The onlt thing that weigh you down on your travels in life are **skills**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
